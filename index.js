@@ -25,6 +25,5 @@ exports.distanceBetween = function (coordinateA, coordinateB) {
 exports.isInRange = function (distanceInRadiance, rangeInKm) {
     var rangeInRadiance;
     rangeInRadiance = rangeInKm / UNIT_CONVERSION_FOR_KM;
-    console.log(rangeInRadiance);
     return distanceInRadiance <= rangeInRadiance;
 }
