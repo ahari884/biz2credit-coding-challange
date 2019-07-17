@@ -1,6 +1,6 @@
 {
   "name": "biz2credit-challange",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "It's an interview coding test and It's not official. This is about finding the customers near with the help GPS coordinates.",
   "main": "index.js",
   "scripts": {
